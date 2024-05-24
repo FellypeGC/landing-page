@@ -1,5 +1,5 @@
 .main-bg {
-  background-image: url('/seçao34/img/confetti-doodles.svg');
+  background-image: url('./img/confetti-doodles.svg');
   background-size: cover;
   background-position: center center;
   color: var(--white-color);
